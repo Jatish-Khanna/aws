@@ -25,3 +25,26 @@ Key services of AWS platform-
    - staging and big data tools (Processed in redshift -> EMR -> Ethina -> Snowball) intermdiates can be stored in S3
    
    
+Each region has multiple AZ's and around the globe there are multiple regions
+Edge locations:
+  Amazon cloud front -> SO the content is delivered faster 
+  
+  
+  VPC - virtual private cloud
+    The services @ AWS can be accessed by normal Internet, whereas VPC is a n/w AWS service to create a private cloud in AWS cloud.
+    - Security
+    - Control
+    - Ip and subnet and n/w tables
+    - Isolating subnets
+  AWS foundational service - that supports other services@AWS
+  
+    - It builts on AZ's - live within region
+    - Each AWS account can have multiple VPC's
+    - Address space divided by subnets
+    - many subnets can be created with VPC
+    - Route table to contol traffic
+    - All subnets can communicate with each other default
+    - Private no direct access whereas Public has direct access
+    - 
+    
+  
