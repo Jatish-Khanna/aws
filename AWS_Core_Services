@@ -1,0 +1,27 @@
+
+
+Key services of AWS platform-
+ EC2 ?
+   Elastic compute cloud
+   . These are cloud hosted compute resources
+ 
+ EBS ? 
+   Elastic block storage
+   Disk space for the AWS instances
+   . Durable and available
+   EC2 and EBS should be in the same AZ
+   
+   
+ S3 - Simple Storage service
+   . Millions of requests per second
+   . Store database snapshots
+   . Access anytime and anywhere
+   . 
+   Scale to store and access as per the data and request
+   
+   - Store the static content of file
+   - Web hosting
+   - Application assests
+   - staging and big data tools (Processed in redshift -> EMR -> Ethina -> Snowball) intermdiates can be stored in S3
+   
+   
