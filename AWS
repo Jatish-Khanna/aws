@@ -1,0 +1,35 @@
+Cloud computing -
+  On demand delivery of IT resources and applications via Internet
+  
+  - Overplanned the resources
+  - Under planned resources
+  
+  
+  Scale up and down based on the need and pay as you go for all the services
+  - Everything is agile, 
+  - Risk managment (security, agility and availablity on the fly)
+  
+  Agility:
+  
+  Ease of experimentation, 
+  Innovate solutions
+  
+  Elasticity:
+   - Instantly scale up or down
+   - Instant provisioning
+   
+   Reliability or resilient:
+    - Cloud computing resources to meet the demand and detect the failure of system
+    - No or minimum h/w or resource planning required
+    - AZ's help us in achiving this
+    - minimum downtime
+    
+    
+    AWS management Interfaces?
+      - Users can create resource 
+       CLI (from the command line)
+       SDK's (Using a variety of popular programming languages)
+       Management consoles (GUI)
+       
+       :: This is also integrated with the Mobile applications.
+       
