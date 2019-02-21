@@ -1,0 +1,31 @@
+Autoscaling -
+  Dynamic scaling - which enables to configure multiple autoscaling policies.
+    An application wide scaling plan to make it work
+    
+    
+    Should have a cloud formation stack or BeanStalk fleet to utilize the AWS product
+  Pay as you go service
+  
+  Features-
+    . Automatic scaling for all of supported resource types
+    . Amazon EC2, EC2 spot fleet (Spot instances)
+    . Amazon ECS 
+    . Dynamo DB table
+    . Amazon aurora
+    
+  Automatic resource discovery-
+   - AWS discovery service list all the autoscaling resources 
+
+
+Scaling policies-
+  . Target tracking scaling policies based on cloud watch alarm which increases the resource utilization like a Thermostat
+  . 
+
+
+Availability - 40%
+Balanced - 50%
+Cost - 70%
+
+
+When? 
+  An application with variable load
