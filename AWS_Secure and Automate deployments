@@ -1,0 +1,22 @@
+
+
+Average cost of security breach $6.53 M [2017] - source csid.com
+ usename, password, PII, confidential emails or data
+ 
+ - AWS can be more secure than the on-premise environment
+  . Easy encryption
+  . Enforcing strong encryption (industry standards) or custom
+  . Automate logging and monitoring - Cloud watch/trail
+  . Easy audit capabilities - cloud trail
+  . AWS inspector to find vulenerabilities
+  
+  With features of Scaling (scale in and scale out)
+  
+Clear seggragation of the security responsibilities-
+
+  - Customer: Security "in" the cloud : OS n/w firewall configuration, data...
+  - AWS security "of" the cloud : Compute, storage, Database, Networking, AWS global infra
+  
+  
+
+  
