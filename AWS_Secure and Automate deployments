@@ -18,5 +18,13 @@ Clear seggragation of the security responsibilities-
   - AWS security "of" the cloud : Compute, storage, Database, Networking, AWS global infra
   
   
+  
+  Components -
+   1) AWS security groups are first line of defence
+    . The best method is to monitor the TCP stream and UDP i.e. control based on application not on ports
+   2) Creation of security zones
+    . Centralized management and logging
+    . Work load monitoring
+    
 
   
